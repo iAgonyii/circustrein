@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace CircustreinV2
 {
-    class Wagon
+    class LoadAnimals
     {
+        public static void Load()
+        {
+            // Create animals
+        }
+
     }
 }

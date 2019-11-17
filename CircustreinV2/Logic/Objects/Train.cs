@@ -8,5 +8,6 @@ namespace CircustreinV2
 {
     class Train
     {
+        private List<Wagon> wagons;
     }
 }
