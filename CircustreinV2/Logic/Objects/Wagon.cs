@@ -23,7 +23,7 @@ namespace CircustreinV2
 
         public bool CanAnimalBeAdded(Animal animal)
         {
-            if (WillAnimalBeEaten(animal) && WillAnimalEatOthers(animal) && WillWagonOverload(animal))
+            if (WillAnimalBeEaten(animal) || WillAnimalEatOthers(animal) || WillWagonOverload(animal))
             {
                 return false;
             }

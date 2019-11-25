@@ -22,7 +22,7 @@ namespace CircustreinV2
 
         public void PlaceAllAnimals(List<Animal> unsortedAnimals)
         {
-            unsortedAnimals = SeperateBigCarnivores(unsortedAnimals);
+          //  unsortedAnimals = SeperateBigCarnivores(unsortedAnimals);
             foreach(Animal animal in unsortedAnimals)
             {
                 GetAvailableWagon(animal).AddAnimalToWagon(animal);
@@ -61,11 +61,6 @@ namespace CircustreinV2
                 }
             }
             return unsortedAnimals;
-        }
-
-        public void PrintTrainLayout()
-        {
-
         }
     }
 }
