@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CircustreinV2
 {
-    class Animal
+    public class Animal
     {
         public Diet Diet { get; set; }
         public Size Size { get; set; }

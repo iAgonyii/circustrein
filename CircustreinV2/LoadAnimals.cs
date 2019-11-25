@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CircustreinV2
 {
-    class LoadAnimals
+    public class LoadAnimals
     {
         public static List<Animal> Load()
         {
@@ -20,6 +20,22 @@ namespace CircustreinV2
                 animals.Add(new Animal(Diet.Herbivore, Size.Medium));
                 animals.Add(new Animal(Diet.Herbivore, Size.Large));
             }
+            return animals;
+        }
+
+        public static List<Animal> Load5WagonTestAnimals()
+        {
+            List<Animal> animals = new List<Animal>();
+            animals.Add(new Animal(Diet.Carnivore, Size.Small));
+            animals.Add(new Animal(Diet.Carnivore, Size.Large));
+            animals.Add(new Animal(Diet.Herbivore, Size.Medium));
+            animals.Add(new Animal(Diet.Herbivore, Size.Medium));
+            animals.Add(new Animal(Diet.Carnivore, Size.Medium));
+            animals.Add(new Animal(Diet.Herbivore, Size.Medium));
+            animals.Add(new Animal(Diet.Herbivore, Size.Large));
+            animals.Add(new Animal(Diet.Herbivore, Size.Large));
+            animals.Add(new Animal(Diet.Herbivore, Size.Large));
+            animals.Add(new Animal(Diet.Carnivore, Size.Large));
             return animals;
         }
 

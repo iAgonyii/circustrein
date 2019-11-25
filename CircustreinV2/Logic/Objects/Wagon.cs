@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CircustreinV2
 {
-    class Wagon
+    public class Wagon
     {
         const int maxPoints = 10;
         public List<Animal> animalsInWagon;

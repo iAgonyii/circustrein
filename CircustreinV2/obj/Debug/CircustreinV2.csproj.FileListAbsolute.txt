@@ -5,3 +5,10 @@ C:\Users\iAgonyii\Documents\Skool\S2\Individueel\Algoritmiek\Circustrein\circust
 C:\Users\iAgonyii\Documents\Skool\S2\Individueel\Algoritmiek\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.csproj.CoreCompileInputs.cache
 C:\Users\iAgonyii\Documents\Skool\S2\Individueel\Algoritmiek\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.exe
 C:\Users\iAgonyii\Documents\Skool\S2\Individueel\Algoritmiek\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.pdb
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\bin\Debug\CircustreinV2.exe.config
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\bin\Debug\CircustreinV2.exe
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\bin\Debug\CircustreinV2.pdb
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.csprojAssemblyReference.cache
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.csproj.CoreCompileInputs.cache
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.exe
+C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\CircustreinV2\obj\Debug\CircustreinV2.pdb
