@@ -10,6 +10,33 @@ namespace CircustreinV2
     {
         static void Main(string[] args)
         {
+            Train train = new Train();
+            train.PlaceAllAnimals(LoadAnimals.Load());
+            PrintWagonsFromTrain(train);
+            Console.ReadLine();
+        }
+
+        static void PrintWagonsFromTrain(Train train)
+        {
+            PrintWagons(train.wagons);
+        }
+
+        static void PrintWagons(List<Wagon> wagons)
+        {
+
+            for (int i = 0; i < wagons.Count; i++)
+            {
+                Console.WriteLine(wagons[i].ToString());
+                PrintAnimals(wagons[i].animalsInWagon);
+            }
+        }
+        static void PrintAnimals(List<Animal> animals)
+        {
+            foreach (Animal animal in animals)
+            {
+                Console.WriteLine(animal);
+            }
+            Console.WriteLine(" ");
         }
     }
 }

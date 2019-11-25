@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LoadAnimals.cs" />
-    <Compile Include="Logic\Algoritme.cs" />
     <Compile Include="Logic\Enums.cs" />
     <Compile Include="Logic\Objects\Animal.cs" />
     <Compile Include="Program.cs" />

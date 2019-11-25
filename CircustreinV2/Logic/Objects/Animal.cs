@@ -10,7 +10,6 @@ namespace CircustreinV2
     {
         public Diet Diet { get; set; }
         public Size Size { get; set; }
-        public bool Sorted { get; set; }
 
         public Animal(Diet Diet, Size Size)
         {
