@@ -18,7 +18,14 @@ namespace CircustreinV2
 
         public void AddAnimalToWagon(Animal animal)
         {
-            animalsInWagon.Add(animal);
+            if(CanAnimalBeAdded(animal))
+            {
+                animalsInWagon.Add(animal);
+            }
+            else
+            {
+                throw new Exception("Animal cannot be added to this wagon");
+            }
         }
 
         public bool CanAnimalBeAdded(Animal animal)
@@ -38,7 +45,7 @@ namespace CircustreinV2
             return animalsInWagon.Sum(a => (int)a.Size);
         }
 
-        public bool WillWagonOverload(Animal animal)
+        private bool WillWagonOverload(Animal animal)
         {
             int points = ReturnPointsInWagon() + (int)animal.Size;
             if(points <= 10)
@@ -51,7 +58,7 @@ namespace CircustreinV2
             }
         }
 
-        public bool WillAnimalBeEaten(Animal insertAnimal)
+        private bool WillAnimalBeEaten(Animal insertAnimal)
         {
             bool? result = null;
 
@@ -68,7 +75,7 @@ namespace CircustreinV2
             return (bool)result;
         }
 
-        public bool WillAnimalEatOthers(Animal insertAnimal)
+        private bool WillAnimalEatOthers(Animal insertAnimal)
         {
             bool? result = null;
             if (insertAnimal.Diet == Diet.Carnivore)
