@@ -1,7 +1,0 @@
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\b\CircustreinV2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\b\CircustreinV2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\b\CircustreinV2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\b\CircustreinV2Tests\bin\Debug\CircustreinV2Tests.dll
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\i\CircustreinV2Tests\Debug\CircustreinV2Tests.csproj.CoreCompileInputs.cache
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\i\CircustreinV2Tests\Debug\CircustreinV2Tests.csproj.CopyComplete
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\15140\i\CircustreinV2Tests\Debug\CircustreinV2Tests.dll

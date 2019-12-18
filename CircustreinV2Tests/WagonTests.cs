@@ -56,5 +56,22 @@ namespace CircustreinV2Tests
 
             Assert.AreEqual(10, points);
         }
+
+        [TestMethod]
+        public void Test_AddingAnimalThatDoesntFit()
+        {
+            Wagon wagon = new Wagon();
+            wagon.animalsInWagon = new List<Animal>() { new Animal(Diet.Carnivore, Size.Large) };
+            bool caught = false;
+            try
+            {
+                wagon.AddAnimalToWagon(new Animal(Diet.Carnivore, Size.Small));
+            }
+            catch(Exception e)
+            {
+                caught = true;
+            }
+            Assert.IsTrue(caught);
+        }
     }
 }

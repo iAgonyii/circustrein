@@ -1,6 +1,0 @@
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\b\CircustreinV2\bin\Debug\CircustreinV2.exe.config
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\b\CircustreinV2\bin\Debug\CircustreinV2.exe
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\i\CircustreinV2\Debug\CircustreinV2.csproj.CoreCompileInputs.cache
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\i\CircustreinV2\Debug\CircustreinV2.csproj.CopyComplete
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\i\CircustreinV2\Debug\CircustreinV2.exe
-C:\Users\Roy\Documents\Skool\HBO-ICT\S2\Individueel\Algoritmiek oefeningen\Circustrein\circustrein\.vs\Circustrein\lut\0\i\CircustreinV2\Debug\CircustreinV2.csprojAssemblyReference.cache

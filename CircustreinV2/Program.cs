@@ -10,8 +10,17 @@ namespace CircustreinV2
     {
         static void Main(string[] args)
         {
+
             Train train = new Train();
-            train.PlaceAllAnimals(LoadAnimals.Load());
+            try
+            {
+                train.PlaceAllAnimals(LoadAnimals.Load());
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            
             PrintWagonsFromTrain(train);
             Console.ReadLine();
         }
