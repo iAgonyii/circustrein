@@ -24,7 +24,7 @@ namespace CircustreinV2
             }
             else
             {
-                throw new Exception("Animal cannot be added to this wagon");
+                throw new Exception("Cannot add animal " + animal.Diet.ToString() + " " + animal.Size.ToString() + " to wagon without performing check");
             }
         }
 

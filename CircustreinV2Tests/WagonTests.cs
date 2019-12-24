@@ -58,7 +58,7 @@ namespace CircustreinV2Tests
         }
 
         [TestMethod]
-        public void Test_AddingAnimalThatDoesntFit()
+        public void Test_AddingAnimalThatDoesntFitThrowsException()
         {
             Wagon wagon = new Wagon();
             wagon.animalsInWagon = new List<Animal>() { new Animal(Diet.Carnivore, Size.Large) };

@@ -12,15 +12,7 @@ namespace CircustreinV2
         {
 
             Train train = new Train();
-            try
-            {
-                train.PlaceAllAnimals(LoadAnimals.Load());
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.ToString());
-            }
-            
+            train.PlaceAllAnimals(LoadAnimals.Load());
             PrintWagonsFromTrain(train);
             Console.ReadLine();
         }

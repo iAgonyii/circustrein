@@ -24,7 +24,14 @@ namespace CircustreinV2
         {
             foreach(Animal animal in unsortedAnimals)
             {
-                GetAvailableWagon(animal).AddAnimalToWagon(animal);
+                try
+                {
+                    GetAvailableWagon(animal).AddAnimalToWagon(animal);
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
             }
         }
 
